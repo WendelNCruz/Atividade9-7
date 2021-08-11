@@ -1,0 +1,16 @@
+button{
+    width: 120px;
+    height: 60px;
+    margin-right: 20px;
+    padding-left: 40px;
+}
+
+#bt1{
+    background:url(./img/Home.JPG) no-repeat left center;
+    background-color:#00c3ff;
+}
+
+#bt2{
+    background:url(./img/folder.JPG) no-repeat left center;
+    background-color:#00c3ff;
+}
